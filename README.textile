@@ -1,3 +1,7 @@
+h3. New maintainer
+
+I do not maintain this code anymore. Latest version can be found at "https://github.com/mvdkleijn/funky_cache":https://github.com/mvdkleijn/funky_cache.
+
 h3. Speed
 
 Following chart show number of requests per second on a test server. Three bars represent Frog installation with no caching, with "File Cache plugin":http://www.antistatique.net/blog/index.php/post/cache-plugin-frogcms installed and with Funky Cache plugin installed. More accurate numbers in "speed comparison":http://www.appelsiini.net/2008/11/ultrafast-frog-with-funky-cache blog post.
